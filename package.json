@@ -11,6 +11,8 @@
   "author": "Renuka Fernando <renukapiyumal@gmail.com> (https://github.com/RenukaFernando)",
   "license": "ISC",
   "devDependencies": {
+    "css-loader": "^0.28.9",
+    "style-loader": "^0.20.1",
     "webpack": "^3.11.0"
   },
   "dependencies": {
