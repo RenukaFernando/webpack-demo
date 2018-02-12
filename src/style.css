@@ -1,3 +1,4 @@
 .hello{
     color: greenyellow;
+    background: url('./webpack_icon.png');
 }
