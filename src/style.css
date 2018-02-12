@@ -1,4 +1,11 @@
+@font-face {
+    font-family: 'renukaFont';
+    src: url('./fonts/Stika_Font.otf');
+    font-weight: 600;
+}
+
 .hello{
-    color: greenyellow;
+    color: darkblue;
+    font-family: 'renukaFont';
     background: url('./webpack_icon.png');
 }

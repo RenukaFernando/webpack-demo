@@ -20,6 +20,12 @@ module.exports = {
                 use: [
                     'file-loader'
                 ]
+            },
+            {
+                test: /\.(ttf|otf)$/,
+                use: [
+                    'file-loader'
+                ]
             }
         ]
     }
