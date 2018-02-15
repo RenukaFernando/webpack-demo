@@ -3,5 +3,5 @@ export default function add(a, b) {
 };
 
 export function product(x){
-    return x * x;
+    return x ** 2;
 }
