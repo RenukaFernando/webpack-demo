@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports = {
     entry: {
-        index:'./babel/src/index.js'
+        index:'./react/src/index.js'
     },
 
     output: {
